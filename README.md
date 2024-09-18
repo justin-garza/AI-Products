@@ -1,6 +1,9 @@
 # Comprehensive Shiny Dashboard for Business Intelligence and Data Analytics
 This Shiny application is a comprehensive tool designed to assist businesses and analysts in understanding the competitive landscape and business profiles within a given geographic region. By utilizing cutting-edge technologies such as Generative AI (GenAI) and Natural Language Processing (NLP), the app provides insights into services and competencies offered by businesses, categorizes these businesses based on potential relationships, and visualizes key data on an interactive map interface.
 
+**Dashboard may take 1-2 min to load**
+
+[Dashboard Link](https://justin-garza-analytics.shinyapps.io/CompanyAnalysis/)
 ## Features
 - **Interactive Map Visualization:** The app offers an interactive map that allows users to explore various businesses within a defined geographic radius. The map is fully responsive and integrates scatter plots directly within the map to display relevant analytics.
 - **AI-Generated Business Insights:** Leveraging GenAI, the app generates detailed insights about the products, services, and core competencies of businesses in the selected area. These insights provide a competitive overview at a glance.
@@ -16,3 +19,6 @@ This Shiny application is a comprehensive tool designed to assist businesses and
 
 # Conclusion
 This Shiny dashboard is a powerful tool for understanding market dynamics, providing users with the insights they need to make data-driven decisions about business relationships. With the integration of AI-driven technologies like GenAI and NLP, it goes beyond simple data visualization to offer intelligent analysis and prediction, making it a valuable resource for businesses and analysts alike.
+
+# Preview
+![image](https://github.com/user-attachments/assets/645b76e3-e89e-4ef9-862c-7c519f89aeaa)
