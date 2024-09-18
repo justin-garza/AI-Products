@@ -1,7 +1,8 @@
 # Comprehensive Shiny Dashboard for Business Intelligence and Data Analytics
 This Shiny application is a comprehensive tool designed to assist businesses and analysts in understanding the competitive landscape and business profiles within a given geographic region. By utilizing cutting-edge technologies such as Generative AI (GenAI) and Natural Language Processing (NLP), the app provides insights into services and competencies offered by businesses, categorizes these businesses based on potential relationships, and visualizes key data on an interactive map interface.
 
-**Dashboard may take 1-2 min to load**
+The dashboard linked below showcases a mock office supply company based in San Antonio, Texas, with data covering a radius of up to 5 miles.
+**Please allow 1-2 minutes for the dashboard to load.**
 
 [Dashboard Link](https://justin-garza-analytics.shinyapps.io/CompanyAnalysis/)
 ## Features
