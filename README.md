@@ -22,5 +22,5 @@ The dashboard linked below showcases a mock office supply company based in San A
 - **Generative AI & NLP:** GenAI and NLP processes are integrated into the app for business insights and analysis, utilizing R libraries and APIs for advanced processing.
 - **Leaflet & Plotly:** The app includes interactive visualizations, with Leaflet used for map rendering and Plotly for dynamic scatter plots. These tools allow for a high level of interactivity, making the data exploration intuitive and visually appealing.
 
-# Conclusion
+## Conclusion
 This Shiny dashboard is a powerful tool for understanding market dynamics, providing users with the insights they need to make data-driven decisions about business relationships. With the integration of AI-driven technologies like GenAI and NLP, it goes beyond simple data visualization to offer intelligent analysis and prediction, making it a valuable resource for businesses and analysts alike.
