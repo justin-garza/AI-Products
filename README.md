@@ -3,6 +3,7 @@ This Shiny application is a comprehensive tool designed to assist businesses and
 
 The dashboard linked below showcases a mock office supply company based in San Antonio, Texas, with data covering a radius of up to 5 miles.
 **Please allow 1-2 minutes for the dashboard to load.**
+<a href="https://justin-garza-analytics.shinyapps.io/CompanyAnalysis/" target="_blank">Dashboard Link</a>
 
 [Dashboard Link](https://justin-garza-analytics.shinyapps.io/CompanyAnalysis/)
 ## Features
